@@ -4,21 +4,21 @@
 
 
 <p align="center">
- <a href="#about">Sobre</a> •
- <a href="#status">Status</a> •  
- <a href="#stack">Tecnologias</a> • 
- <a href="#overview">Demonstração</a> • 
-  <a href="#run">Como rodar</a> • 
- <a href="#author">Autor</a>
+ <a href="#iphone-moveit">Sobre</a> •
+ <a href="#pushpin-status">Status</a> •  
+ <a href="#-tecnologias">Tecnologias</a> • 
+ <a href="#telescope-demonstração">Demonstração</a> • 
+  <a href="#video_game-como-rodar">Como rodar</a> • 
+ <a href="#tophat-autor">Autor</a>
 </p>
 
 
 ## :iphone: Move.it
-<p id="about">Aplicativo web criado na #NextLevelWeek04 da <a href="https://app.rocketseat.com.br">Rocketseat</a> para gamificar alogamentos que são de extrema importância no nosso dia a dia como profissional de TI. Você pode testar acessando esse <a href="https://moveit-next-alpha.vercel.app/">link<a/>.</p>
+<p>Aplicativo web criado na #NextLevelWeek04 da <a href="https://app.rocketseat.com.br">Rocketseat</a> para gamificar alogamentos que são de extrema importância no nosso dia a dia como profissional de TI. Você pode testar acessando esse <a href="https://moveit-next-alpha.vercel.app/">link<a/>.</p>
 
 
 ### :pushpin: Status
-<h4 id="status">Em desenvolvimento...</h4>
+<h4>Em desenvolvimento...</h4>
 
 - [x] Gerar desafios aleatórios
 - [x] Mecanica de level up
@@ -30,7 +30,6 @@
 
 
 ### 🛠 Tecnologias
-<div id="stack">
   <ul>
     <li>Javascript</li>
     <li>Typescript</li>
@@ -38,20 +37,18 @@
     <li>Next.js</li>
     <li>CSS3</li>
   </ul>
-</div>
+
 
 ### :telescope: Demonstração
-<div id="overview">
   <p>Em construção... 🚧</p>
-</div>
+
 
 ### :video_game: Como rodar
-<div id="run">
   <p>Em construção... 🚧</p>
-</div>
+
 
 ### :tophat: Autor
-<div id="author">
+<div>
  <img style="border-radius: 50%;" src="https://github.com/hpsouza-luiz.png"" width="100px;" alt="Profile picture"/>
 
 Made with <3 by Luiz Souza
